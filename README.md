@@ -1,6 +1,4 @@
 
-# Welcome to LearnCS8 Resume Website
+# Welcome to Isabel Fryett's Resume Website
 
-This is an template website for you to fill in your own information. Follow the instructions at https://learncs8.com
-
-Special thanks to the open source bootstrap libraries that made this website possible. 
+![This is a preview of my website which I coded](img/Isabel_Fryett_Screenshot.png)
